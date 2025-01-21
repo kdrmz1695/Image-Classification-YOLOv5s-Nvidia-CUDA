@@ -1,4 +1,4 @@
-# Object Detection with Sequential and Parallel Processing with YOLOv5s, Nvidia - CUDA
+# Image Classification with Sequential and Parallel Processing with YOLOv5s, Nvidia - CUDA
 
 This project implements object detection on video streams using the YOLOv5s model. It demonstrates the performance comparison between **sequential processing** and **parallel processing** to highlight the benefits of parallelism in real-time video processing.
 
